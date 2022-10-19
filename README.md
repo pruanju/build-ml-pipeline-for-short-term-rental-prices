@@ -1,5 +1,8 @@
 Links to my repositories:
+
 https://wandb.ai/pruanju/nyc_airbnb?workspace=user-pruanju
+
+
 https://github.com/pruanju/build-ml-pipeline-for-short-term-rental-prices
 
 
